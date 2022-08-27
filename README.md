@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello There 👋
 
-<!--
-**IgnacioPalma/IgnacioPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A student learning about deep learning across the inter-web and Chile.
 
-Here are some ideas to get you started:
+#### NOW
+- 👨‍💻 Mentor at [Open Source UC](https://github.com/open-source-uc).
+- 🏢 Ambassador for the new [DCC-UC](https://www.instagram.com/dccuc/) Computer-Science Bachelor.
+- ✨ Member of the [CCC-UC](https://www.instagram.com/ccc.ing.uc/) Academics Commission.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### BIO
+- ⚙️ I use daily: `.py`
+- 💬 Ping me about **NPL**
+- 📫 Reach me: *ignacio.palma@uc.cl*
+
