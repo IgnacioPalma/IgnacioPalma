@@ -1,6 +1,6 @@
 ### Hello There 👋
 
-#### A student learning about deep learning across the inter-web and Chile.
+#### A student learning about deep learning across the internet and Chile.
 
 #### NOW
 - 👨‍💻 Mentor at [Open Source UC](https://github.com/open-source-uc).
