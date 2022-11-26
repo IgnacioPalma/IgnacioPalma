@@ -3,8 +3,11 @@
 #### A student learning about deep learning across the internet and Chile.
 
 #### NOW
-- 👨‍💻 Mentor at [Open Source UC](https://github.com/open-source-uc).
+- 🚩 GitHub Campus Expert at Pontificia Universidad Cat
 - 🏢 Ambassador for the new [DCC-UC](https://www.instagram.com/dccuc/) Computer-Science Bachelor.
+
+#### Before
+- 👨‍💻 Mentor at [Open Source UC](https://github.com/open-source-uc).
 - ✨ Leader of the [CCC-UC](https://www.instagram.com/ccc.ing.uc/) Academics Commission.
 
 #### BIO
