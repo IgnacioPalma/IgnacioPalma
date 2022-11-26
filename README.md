@@ -3,7 +3,7 @@
 #### A student learning about deep learning across the internet and Chile.
 
 #### NOW
-- 🚩 GitHub Campus Expert at Pontificia Universidad Cat
+- 🚩 GitHub Campus Expert at Pontificia Universidad Católica de Chile.
 - 🏢 Ambassador for the new [DCC-UC](https://www.instagram.com/dccuc/) Computer-Science Bachelor.
 
 #### BEFORE
