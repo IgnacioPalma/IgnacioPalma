@@ -6,7 +6,7 @@
 - 🚩 GitHub Campus Expert at Pontificia Universidad Cat
 - 🏢 Ambassador for the new [DCC-UC](https://www.instagram.com/dccuc/) Computer-Science Bachelor.
 
-#### Before
+#### BEFORE
 - 👨‍💻 Mentor at [Open Source UC](https://github.com/open-source-uc).
 - ✨ Leader of the [CCC-UC](https://www.instagram.com/ccc.ing.uc/) Academics Commission.
 
