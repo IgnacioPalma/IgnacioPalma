@@ -4,15 +4,14 @@
 #### A student learning about deep learning across the internet and Chile.
 
 #### NOW
-- 🚩 GitHub Campus Expert Trainee at Pontificia Universidad Católica de Chile.
+- 🚩 GitHub Campus Expert at Pontificia Universidad Católica de Chile (UC).
 - 🏢 Ambassador for the new [DCC-UC](https://www.instagram.com/dccuc/) Computer-Science Bachelor.
+- 🧠 Founder of The Artificial Intelligence Club @ UC.
 
 #### BEFORE
 - 👨‍💻 Mentor at [Open Source UC](https://github.com/open-source-uc).
 - ✨ Leader of the [CCC-UC](https://www.instagram.com/ccc.ing.uc/) Academics Commission.
 
-#### BIO
-- ⚙️ I use daily: `.py`
-- 💬 Ping me about **NPL**
-- 📫 Reach me: *ignacio.palma@uc.cl*
+#### REACH
+- 📫 *ignaciopalma.contact@gmail.com*
 
