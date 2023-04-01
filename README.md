@@ -12,6 +12,3 @@
 - 👨‍💻 Mentor at [Open Source UC](https://github.com/open-source-uc).
 - ✨ Leader of the [CCC-UC](https://www.instagram.com/ccc.ing.uc/) Academics Commission.
 
-#### REACH
-- 📫 *ignaciopalma.contact@gmail.com*
-
