@@ -1,4 +1,6 @@
-[![An image of @ignaciopalma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ignaciopalma)](https://holopin.io/@ignaciopalma)
+
+![test](https://github.com/user-attachments/assets/39bca043-9076-4431-8cfa-3544c3b723fd)
+
 ### Hello There 👋
 Hello! I'm Ignacio; a Chilean community weaver and data science student. 🇨🇱
 
