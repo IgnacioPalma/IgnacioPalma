@@ -1,6 +1,5 @@
 
-![Cover](https://github.com/user-attachments/assets/8424af8d-0672-41c2-90a8-c0b7719d5460)
-
+<img width="1584" height="396" alt="LinkedIn cover - 1" src="https://github.com/user-attachments/assets/1320b99b-2c90-4c18-a7db-716937368bbb" />
 
 ### Hello There 👋!
 Hello! I'm Ignacio; a Chilean community weaver and data science student. 🇨🇱
