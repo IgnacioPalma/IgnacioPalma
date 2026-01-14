@@ -12,3 +12,4 @@ While I'm not learning about data science and AI, I support communities so they 
 Do you want to reach me?! :O
 Well, you can contact me via email! I will check it out:D
 
+[![committers.top badge](https://user-badge.committers.top/chile/IgnacioPalma.svg)](https://user-badge.committers.top/chile/IgnacioPalma)
