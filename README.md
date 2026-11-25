@@ -1,8 +1,9 @@
 
-<img width="1500" height="500" alt="LinkedIn Cover" src="https://github.com/user-attachments/assets/8c7e65c5-209b-43bb-949c-0bd674105447" />
+<img width="1500" height="500" alt="Cover" src="https://github.com/user-attachments/assets/ce0347d8-2213-414e-a14e-739621c51397" />
+
 
 ## Hello there
 
-Im Ignacio — a developer, designer, and community weaver. I turn ideas into products, and people into communities. Checkout at [ignaciopalma.com](https://ignaciopalma.com)
+I'm Ignacio, a design engineer and community weaver from Chile. Checkout at [ignaciopalma.com](https://ignaciopalma.com)
 
 [![committers.top badge](https://user-badge.committers.top/chile/IgnacioPalma.svg)](https://user-badge.committers.top/chile/IgnacioPalma)
